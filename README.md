@@ -1,2 +1,2 @@
-# UnbeatableTicTacToe
-A build of my unbeatable TicTacToe game.
+# How to pay
+Open
