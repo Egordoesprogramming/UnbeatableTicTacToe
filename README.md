@@ -1,2 +1,2 @@
-# How to pay
-Open
+# How To Play
+To start the game...
